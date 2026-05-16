@@ -39,13 +39,13 @@ This project aims to answer:
 ## 📸 Dashboard Screenshots
 
 ### 📊 Overview Dashboard
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
 
-### ⚠ Safety & Risk Analysis
-![Safety](images/safety.png)
+### ⚠ Road Density and Efficiency
+![Safety](images/Road_Density&Efficiency.png)
 
 ### 🧠 Insights Dashboard
-![Insights](images/insights.png)
+![Insights](images/Smart_Insights.png)
 
 ---
 
