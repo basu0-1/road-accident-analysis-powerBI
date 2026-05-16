@@ -36,19 +36,6 @@ This project aims to answer:
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### 📊 Overview Dashboard
-![Overview](images/Overview.png)
-
-### ⚠ Road Density and Efficiency
-![Safety](images/Road_Density&Efficiency.png)
-
-### 🧠 Insights Dashboard
-![Insights](images/Smart_Insights.png)
-
----
-
 ## 🚀 Features
 
 ### ✨ Dynamic Filtering
